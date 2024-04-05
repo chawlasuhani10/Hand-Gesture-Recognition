@@ -1,0 +1,46 @@
+I (355) mpu6050 test: acce_x:-0.01, acce_y:-0.92, acce_z:0.30
+
+I (355) mpu6050 test: gyro_x:22.82, gyro_y:3.91, gyro_z:-0.93
+
+
+
+I (345) mpu6050 test: acce_x:0.12, acce_y:-1.12, acce_z:-0.14
+
+I (355) mpu6050 test: gyro_x:31.80, gyro_y:12.85, gyro_z:6.47
+
+
+
+I (345) mpu6050 test: acce_x:0.09, acce_y:-0.75, acce_z:0.62
+
+I (355) mpu6050 test: gyro_x:-68.17, gyro_y:-11.76, gyro_z:10.21
+
+
+
+I (345) mpu6050 test: acce_x:0.02, acce_y:-0.93, acce_z:0.27
+
+I (355) mpu6050 test: gyro_x:6.60, gyro_y:2.35, gyro_z:-7.10
+
+
+
+I (355) mpu6050 test: acce_x:-0.01, acce_y:-0.72, acce_z:0.55
+
+I (355) mpu6050 test: gyro_x:192.93, gyro_y:34.95, gyro_z:-21.45
+
+
+
+I (355) mpu6050 test: acce_x:0.05, acce_y:-0.12, acce_z:0.86
+
+I (355) mpu6050 test: gyro_x:60.78, gyro_y:9.85, gyro_z:-51.92
+
+
+
+I (345) mpu6050 test: acce_x:0.14, acce_y:-0.48, acce_z:0.77
+
+I (355) mpu6050 test: gyro_x:-13.10, gyro_y:-7.34, gyro_z:4.98
+
+
+
+
+
+
+
